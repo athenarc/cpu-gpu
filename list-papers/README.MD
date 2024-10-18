@@ -1,0 +1,1 @@
+[List of papers about workload placement on heterogeneous CPU-GPU systems](https://github.com/athenarc/cpu-gpu/blob/main/list-papers/papers-gpucpu.pdf)
