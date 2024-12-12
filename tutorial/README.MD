@@ -1,4 +1,4 @@
-#Workload Placement on Heterogeneous CPU-GPU Systems
+# Workload Placement on Heterogeneous CPU-GPU Systems
 
 The material of the tutorial:
 
