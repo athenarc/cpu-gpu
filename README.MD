@@ -1,14 +1,5 @@
 # Efficient workload placement strategies for heterogeneous CPU-GPU environments
 
-## Table of content
-
-- [Performance analysis of distributed GPU-accelerated task-based workflows (EDBT'24)](https://github.com/mnlcarv/Performance-Analysis-of-Distributed-GPU-Accelerated-Task-Based-Workflows)
-- [Workload placement on heterogeneous CPU-GPU systems (VLDB'24)](https://github.com/athenarc/cpu-gpu/blob/main/tutorial)
-- [List of papers about workload placement on heterogeneous CPU-GPU systems](https://github.com/athenarc/cpu-gpu/blob/main/list-papers)
-
-
-# Efficient workload placement strategies for heterogeneous CPU-GPU environments
-
 A review and a comparison of state-of-the-art strategies for workload placement on heterogeneous CPU-GPU architectures, along with runtime prediction techniques and methods to support multi-device code. 
 
 Tutorial presented at VLDB 2024. 
@@ -18,7 +9,7 @@ Tutorial presented at VLDB 2024.
 
 ## License
 
-The project is licensed under the GPL-3.0 license.
+The project is licensed under the [GPL-3.0 license](https://github.com/athenarc/cpu-gpu?tab=GPL-3.0-1-ov-file).
 
 ## Full citation: 
 
