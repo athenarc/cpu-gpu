@@ -1,4 +1,4 @@
-# Efficient workload placement strategies for heterogeneous CPU-GPU environments
+# Workload placement on heterogeneous CPU-GPU environments
 
 A review and a comparison of state-of-the-art strategies for workload placement on heterogeneous CPU-GPU architectures, along with runtime prediction techniques and methods to support multi-device code. 
 
