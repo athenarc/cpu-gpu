@@ -5,7 +5,7 @@ A review and a comparison of state-of-the-art strategies for workload placement 
 Tutorial presented at VLDB 2024. 
 
 - A copy of the [paper](https://www.vldb.org/pvldb/vol17/p4241-carvalho.pdf) and the [slides](https://github.com/athenarc/cpu-gpu/blob/main/tutorial/vldb24-gpucpu-tutorial.pdf) presented
-- The [list of papers](https://github.com/athenarc/cpu-gpu/blob/main/list-papers) considered in the tutorial
+- The [list of papers](https://github.com/athenarc/cpu-gpu/blob/main/list-papers/papers-gpucpu.pdf) considered in the tutorial
 
 ## License
 
